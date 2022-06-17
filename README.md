@@ -13,4 +13,5 @@ cantidad de simulaciones.
 [CAÑOS.pdf](https://github.com/valentinogiardino/SIM-TP4/files/8931809/CANOS.pdf)
 
 -Borrador Excel:
-[TP4_BorradorMontecarlo.xlsx](https://github.com/valentinogiardino/SIM-TP4/files/8931811/TP4_BorradorMontecarlo.xlsx)
+[TP4-BORRADOR CAÑOS.xlsx](https://github.com/valentinogiardino/SIM-TP4/files/8931817/TP4-BORRADOR.CANOS.xlsx)
+
